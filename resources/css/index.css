@@ -10,3 +10,20 @@ h1 {
     background-image: url('../../resources/media/pattern.jpeg');
     text-align: center;
 }
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.price {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+.section_one h2 {
+    background-color: mediumspringgreen;
+}
