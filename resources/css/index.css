@@ -21,14 +21,14 @@ h2 {
     color: blue;
 }
 
-.section_one h2 {
+#brushes h2 {
     background-color: mediumspringgreen;
 }
 
-.section_two h2 {
+#frames h2 {
     background-color: lightcoral;
 }
 
-.section_three h2 {
+#paints h2 {
     background-color: skyblue;
 }
